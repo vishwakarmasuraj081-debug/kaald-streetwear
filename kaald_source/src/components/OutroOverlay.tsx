@@ -1,0 +1,12 @@
+import React from 'react';
+
+export const OutroOverlay: React.FC = () => {
+  return (
+    <div
+      id="outro-overlay"
+      className="fixed inset-0 pointer-events-none z-12 bg-white opacity-0"
+      aria-hidden="true"
+      style={{ willChange: 'opacity' }}
+    />
+  );
+};

@@ -1,0 +1,6 @@
+{
+  "name": "KAALD — Born in Motion",
+  "description": "Award-winning 3D digital fashion experience and premium Indian streetwear e-commerce platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

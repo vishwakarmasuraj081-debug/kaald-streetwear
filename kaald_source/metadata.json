@@ -1,0 +1,6 @@
+{
+  "name": "KAALD — Born in Motion",
+  "description": "KAALD Collection 01 luxury streetwear campaign featuring signature utility pants, oversized shirts, discipline jacket, interactive hero, and archive visual index.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
